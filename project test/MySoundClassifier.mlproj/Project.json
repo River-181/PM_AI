@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2025-11-08T04:24:32Z",
+        "event" : "projectCreated",
+        "id" : "39572ED9-2F03-4796-AA36-2FCEDDEBA135",
+        "subtitle" : "MySoundClassifier",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "김주용",
+  "createdDate" : "2025-11-08T04:24:32Z",
+  "description" : "",
+  "id" : "EBEB0E66-ACC8-4993-A984-292B44CA8FBF",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2025-11-08T04:24:32Z",
+  "projectName" : "MySoundClassifier",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "audioClassifier",
+  "title" : "Sound Classification",
+  "version" : "1.1"
+}

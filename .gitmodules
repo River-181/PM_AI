@@ -1,0 +1,3 @@
+[submodule "PM_AI_model"]
+	path = PM_AI_model
+	url = https://github.com/River-181/PM_AI_model.git

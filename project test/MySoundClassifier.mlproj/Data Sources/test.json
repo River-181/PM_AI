@@ -1,0 +1,31 @@
+{
+  "activityEntities" : [
+    "dataSourceCreated",
+    [
+      {
+        "createdDate" : "2025-11-08T04:27:17Z",
+        "event" : "dataSourceCreated",
+        "id" : "43AC322E-DC3B-4D0C-81D7-16915983BFFD",
+        "subtitle" : "test",
+        "title" : "Data Source Created"
+      }
+    ]
+  ],
+  "createdDate" : "2025-11-08T04:27:17Z",
+  "dataPathRelativeToProjectURL" : "../../test/",
+  "dataResult" : {
+    "createdDate" : "2025-11-08T04:27:17Z",
+    "dataSourceID" : "9E7D3074-14A4-4632-9394-7A908DA591EB",
+    "dataURL" : "file:///Users/river/cnu_ML-DL/git/Project_mentoring/test/"
+  },
+  "dataURL" : "file:///Users/river/cnu_ML-DL/git/Project_mentoring/test/",
+  "experimentIDs" : [
+    "159D59F5-F8F7-434C-8AAF-A22ABBC5948B"
+  ],
+  "id" : "9E7D3074-14A4-4632-9394-7A908DA591EB",
+  "modifiedDate" : "2025-11-08T04:27:17Z",
+  "pathType" : 0,
+  "preferredFilename" : "test",
+  "title" : "test",
+  "version" : "1.0"
+}

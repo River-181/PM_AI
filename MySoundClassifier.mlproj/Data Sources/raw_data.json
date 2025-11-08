@@ -1,0 +1,89 @@
+{
+  "activityEntities" : [
+    "dataSourceCreated",
+    [
+      {
+        "createdDate" : "2025-11-05T18:35:28Z",
+        "event" : "dataSourceCreated",
+        "id" : "8373B4E7-6EF3-47EB-9FE3-72734532D34A",
+        "subtitle" : "raw_data",
+        "title" : "Data Source Created"
+      }
+    ],
+    "dataSourceMetrics",
+    [
+      {
+        "createdDate" : "2025-11-05T18:53:43Z",
+        "event" : "dataSourceMetrics",
+        "id" : "9762F422-D7B9-4554-85CF-B7D6A8EB2C4B",
+        "subtitle" : "20 Classes, 453 Items",
+        "title" : "Data Summary"
+      },
+      {
+        "createdDate" : "2025-11-05T19:11:19Z",
+        "event" : "dataSourceMetrics",
+        "id" : "7CFA8130-AE1E-477E-B93E-EC5280427719",
+        "subtitle" : "21 Classes, 518 Items",
+        "title" : "Data Summary"
+      },
+      {
+        "createdDate" : "2025-11-05T19:37:14Z",
+        "event" : "dataSourceMetrics",
+        "id" : "81AB3414-B5D2-4D1E-BB55-C5E4170C62D4",
+        "subtitle" : "20 Classes, 559 Items",
+        "title" : "Data Summary"
+      }
+    ],
+    "dataSourceTrainingStarted",
+    [
+      {
+        "createdDate" : "2025-11-05T18:53:43Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "456527C8-AD3D-4D86-9339-DF0FC36CC74D",
+        "subtitle" : "MySoundClassifier 1",
+        "title" : "Used By"
+      },
+      {
+        "createdDate" : "2025-11-05T19:11:19Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "82723757-E9C1-4A19-8957-8BEF35D01393",
+        "subtitle" : "MySoundClassifier 1 copy",
+        "title" : "Used By"
+      },
+      {
+        "createdDate" : "2025-11-05T19:37:14Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "0391472F-DE32-4327-9778-0AA30DC43677",
+        "subtitle" : "MySoundClassifier 2",
+        "title" : "Used By"
+      }
+    ]
+  ],
+  "createdDate" : "2025-11-05T18:35:28Z",
+  "dataPathRelativeToProjectURL" : "../raw_data/",
+  "dataResult" : {
+    "createdDate" : "2025-11-05T18:35:28Z",
+    "dataSourceID" : "8F246A8B-506A-4CB6-9209-02F11C1ECB26",
+    "dataURL" : "file:///Users/river/cnu_ML-DL/git/Project_mentoring/raw_data/",
+    "error" : {
+      "code" : 0,
+      "domain" : "com.apple.CreateML.xpc",
+      "errorType" : "error",
+      "reason" : "Missing data for label 폰_알림. Detailed list of labels missing files: [\"폰_알림\", \"소음_문소리\", \"소음_통돌이\", \"가전제품_종료\", \"고양이\", \"초인종\", \"소음_가구\", \"소음_아이발소리\", \"소음_드럼\", \"소음_청소기\", \"노크\", \"배경소음\", \"개\", \"소음_어른발소리\", \"폰_전화\", \"아기_울음소리\", \"타이머_알람\", \"화재_경보\"]."
+    },
+    "warning" : "Skipping audio files with invalid duration: dog_010.wav, dog_004.wav, dog_011.wav, dog_006.wav, dog_003.wav, and 41 others."
+  },
+  "dataURL" : "file:///Users/river/cnu_ML-DL/git/Project_mentoring/raw_data/",
+  "experimentIDs" : [
+    "BB27AF2E-4AC2-4DD0-B720-E1E37A703028",
+    "6379823B-B916-4304-89E2-F85133569499",
+    "37E38CC3-932A-4E8C-ABE8-B8D8E283ABA1",
+    "E0C8C2F0-4041-494F-AD6C-8897C98EF935"
+  ],
+  "id" : "8F246A8B-506A-4CB6-9209-02F11C1ECB26",
+  "modifiedDate" : "2025-11-06T15:47:30Z",
+  "pathType" : 0,
+  "preferredFilename" : "raw_data",
+  "title" : "raw_data",
+  "version" : "1.0"
+}

@@ -1,0 +1,48 @@
+# Large files and directories
+*.npy
+*.keras
+cache/
+backup/
+raw_data/
+test/
+train/
+*.wav
+*.mp3
+*.m4a
+*.aac
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Xcode
+*.xcodeproj/xcuserdata/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# ML models
+*.mlmodel
+*.mlpackage/
+models/

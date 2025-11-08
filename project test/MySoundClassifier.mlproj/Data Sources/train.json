@@ -1,0 +1,51 @@
+{
+  "activityEntities" : [
+    "dataSourceTrainingStarted",
+    [
+      {
+        "createdDate" : "2025-11-08T04:26:32Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "38E621F8-85C0-477F-8015-386A558BF9A7",
+        "subtitle" : "MySoundClassifier 1",
+        "title" : "Used By"
+      }
+    ],
+    "dataSourceMetrics",
+    [
+      {
+        "createdDate" : "2025-11-08T04:26:32Z",
+        "event" : "dataSourceMetrics",
+        "id" : "71024008-C25F-4C33-8088-45DD5B048A2E",
+        "subtitle" : "21 Classes, 830 Items",
+        "title" : "Data Summary"
+      }
+    ],
+    "dataSourceCreated",
+    [
+      {
+        "createdDate" : "2025-11-08T04:25:09Z",
+        "event" : "dataSourceCreated",
+        "id" : "B469C46C-62B8-43CB-8A23-6E3EFCF1CB4B",
+        "subtitle" : "train",
+        "title" : "Data Source Created"
+      }
+    ]
+  ],
+  "createdDate" : "2025-11-08T04:25:09Z",
+  "dataPathRelativeToProjectURL" : "../../train/",
+  "dataResult" : {
+    "createdDate" : "2025-11-08T04:25:09Z",
+    "dataSourceID" : "90DC6001-B3A2-47B6-A8F5-BFB9B518AC61",
+    "dataURL" : "file:///Users/river/cnu_ML-DL/git/Project_mentoring/train/"
+  },
+  "dataURL" : "file:///Users/river/cnu_ML-DL/git/Project_mentoring/train/",
+  "experimentIDs" : [
+    "159D59F5-F8F7-434C-8AAF-A22ABBC5948B"
+  ],
+  "id" : "90DC6001-B3A2-47B6-A8F5-BFB9B518AC61",
+  "modifiedDate" : "2025-11-08T04:26:32Z",
+  "pathType" : 0,
+  "preferredFilename" : "train",
+  "title" : "train",
+  "version" : "1.0"
+}

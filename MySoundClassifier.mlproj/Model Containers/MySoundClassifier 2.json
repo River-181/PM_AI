@@ -1,0 +1,134 @@
+{
+  "activityEntities" : [
+    "experimentCreated",
+    [
+      {
+        "createdDate" : "2025-11-06T15:45:49Z",
+        "event" : "experimentCreated",
+        "id" : "9A07814C-C117-4CBE-B242-BA9CE751C154",
+        "subtitle" : "MySoundClassifier 2",
+        "title" : "Model Source Created"
+      }
+    ]
+  ],
+  "contentDataResult" : {
+
+  },
+  "createdDate" : "2025-11-06T15:45:49Z",
+  "evaluationContainerEntity" : {
+    "createdDate" : "2025-11-06T15:45:49Z",
+    "evaluationEntities" : [
+
+    ],
+    "id" : "af64228b-6ff0-4024-9b25-889218c2548f",
+    "modifiedDate" : "2025-11-06T15:45:49Z",
+    "previewType" : "soundClassifier",
+    "testingEvaluationEntity" : {
+      "analysedDataType" : "none",
+      "createdDate" : "2025-11-06T15:45:49Z",
+      "dataResult" : {
+
+      },
+      "id" : "ac792a23-3ae8-473a-87c8-63e8b56eaee2"
+    },
+    "trainingEvaluationEntity" : {
+      "analysedDataType" : "none",
+      "createdDate" : "2025-11-06T15:45:49Z",
+      "dataResult" : {
+
+      },
+      "id" : "56851c27-afe4-4f31-b32c-cfb3c15fea7a"
+    },
+    "validationEvaluationEntity" : {
+      "analysedDataType" : "none",
+      "createdDate" : "2025-11-06T15:45:49Z",
+      "dataResult" : {
+
+      },
+      "id" : "e6762fd0-5a2e-473c-b798-60d83306163f"
+    }
+  },
+  "evaluationEntity" : {
+    "analysedDataType" : "none",
+    "dataResult" : {
+
+    },
+    "id" : "22ad3d91-b1de-4f4d-878b-548486325a98"
+  },
+  "evaluationState" : "uninitialized",
+  "id" : "E1053157-A08A-4E22-AB1F-7BA9AAAD54AB",
+  "modelEntity" : {
+    "createdDate" : "2025-11-06T15:45:49Z",
+    "experimentID" : "E1053157-A08A-4E22-AB1F-7BA9AAAD54AB",
+    "id" : "48E86599-8AD9-47B8-AB71-996DA4C0CD6A",
+    "modifiedDate" : "2025-11-06T15:45:49Z",
+    "title" : "",
+    "version" : "1.0"
+  },
+  "modifiedDate" : "2025-11-06T15:45:49Z",
+  "preferredFilename" : "MySoundClassifier 2",
+  "settingEntity" : {
+    "algorithmType" : "maxEnt",
+    "augmentations" : [
+
+    ],
+    "featureNames" : [
+
+    ],
+    "handActionClassifierAugmentations" : [
+
+    ],
+    "handPoseClassifierAugmentations" : [
+
+    ],
+    "harVideoAugmentations" : 0,
+    "seedType" : "default",
+    "soundAlgorithmType" : "transferLearning",
+    "soundClassifierMLPLayers" : [
+      2
+    ],
+    "soundClassifierType" : "logisticRegressor",
+    "soundFeatureExtractionType" : "audioFeaturePrint",
+    "soundIsCustomOverlapFactor" : false,
+    "soundOverlapFactor" : 0.5,
+    "soundTimeWindow" : 0.975,
+    "styleTransferAlgorithmType" : "image",
+    "taskType" : "audioClassifier",
+    "transferLearningEmbeddingType" : "dynamic"
+  },
+  "snapshotRole" : {
+    "withoutSnapshots" : 0
+  },
+  "state" : "uninitialized",
+  "title" : "MySoundClassifier 2",
+  "trainingEntity" : {
+    "analysedDataType" : "choose",
+    "checkpointMetrics" : {
+
+    },
+    "dataResult" : {
+
+    },
+    "featureExtractionCheckpointMayBeAvailable" : false,
+    "progress" : [
+
+    ],
+    "snapshottableCheckpoints" : {
+
+    }
+  },
+  "validationEntity" : {
+    "analysedDataType" : "auto",
+    "dataResult" : {
+
+    },
+    "splitOptions" : {
+      "strategy" : {
+        "automatic" : {
+
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2025-11-05T18:35:17Z",
+        "event" : "projectCreated",
+        "id" : "F880FC09-6B71-4E4A-8FCA-E0485CDA0C8A",
+        "subtitle" : "MySoundClassifier",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "김주용",
+  "createdDate" : "2025-11-05T18:35:17Z",
+  "description" : "",
+  "id" : "6AFC696D-3889-4868-BA66-41B4467A5D12",
+  "license" : "MIT",
+  "location" : "",
+  "modifiedDate" : "2025-11-05T19:40:34Z",
+  "projectName" : "MySoundClassifier",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "audioClassifier",
+  "title" : "Sound Classification",
+  "version" : "1.1"
+}

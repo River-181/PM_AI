@@ -1,0 +1,31 @@
+{
+  "activityEntities" : [
+    "dataSourceCreated",
+    [
+      {
+        "createdDate" : "2025-11-08T04:25:03Z",
+        "event" : "dataSourceCreated",
+        "id" : "72CF072B-3EC0-4832-9095-2B1E19487C30",
+        "subtitle" : "소음_청소기",
+        "title" : "Data Source Created"
+      }
+    ]
+  ],
+  "createdDate" : "2025-11-08T04:25:03Z",
+  "dataPathRelativeToProjectURL" : "../../train/%E1%84%89%E1%85%A9%E1%84%8B%E1%85%B3%E1%86%B7_%E1%84%8E%E1%85%A5%E1%86%BC%E1%84%89%E1%85%A9%E1%84%80%E1%85%B5/",
+  "dataResult" : {
+    "createdDate" : "2025-11-08T04:25:03Z",
+    "dataSourceID" : "8E385C5E-84DB-4897-97B1-1DA8321501B0",
+    "dataURL" : "file:///Users/river/cnu_ML-DL/git/Project_mentoring/train/%E1%84%89%E1%85%A9%E1%84%8B%E1%85%B3%E1%86%B7_%E1%84%8E%E1%85%A5%E1%86%BC%E1%84%89%E1%85%A9%E1%84%80%E1%85%B5/"
+  },
+  "dataURL" : "file:///Users/river/cnu_ML-DL/git/Project_mentoring/train/%E1%84%89%E1%85%A9%E1%84%8B%E1%85%B3%E1%86%B7_%E1%84%8E%E1%85%A5%E1%86%BC%E1%84%89%E1%85%A9%E1%84%80%E1%85%B5/",
+  "experimentIDs" : [
+    "159D59F5-F8F7-434C-8AAF-A22ABBC5948B"
+  ],
+  "id" : "8E385C5E-84DB-4897-97B1-1DA8321501B0",
+  "modifiedDate" : "2025-11-08T04:25:03Z",
+  "pathType" : 0,
+  "preferredFilename" : "소음_청소기",
+  "title" : "소음_청소기",
+  "version" : "1.0"
+}
