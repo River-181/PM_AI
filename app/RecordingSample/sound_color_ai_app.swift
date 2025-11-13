@@ -148,6 +148,7 @@ class SoundClassifier: NSObject, ObservableObject {
     @Published var isRecording = false
     @Published var currentPowerLevel: Float = -160.0
     @Published var baselineDecibel: Float?
+    @Published var triggerPulse: Bool = false
     
     var isEngineRunning: Bool {
         return audioEngine?.isRunning ?? false

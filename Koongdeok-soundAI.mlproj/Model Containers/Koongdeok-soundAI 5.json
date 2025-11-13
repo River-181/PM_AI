@@ -1,0 +1,134 @@
+{
+  "activityEntities" : [
+    "experimentCreated",
+    [
+      {
+        "createdDate" : "2025-11-09T06:27:14Z",
+        "event" : "experimentCreated",
+        "id" : "5CFB431C-528B-412D-A6D3-FC6D343355D4",
+        "subtitle" : "Koongdeok-soundAI 5",
+        "title" : "Model Source Created"
+      }
+    ]
+  ],
+  "contentDataResult" : {
+
+  },
+  "createdDate" : "2025-11-09T06:27:14Z",
+  "evaluationContainerEntity" : {
+    "createdDate" : "2025-11-09T06:27:14Z",
+    "evaluationEntities" : [
+
+    ],
+    "id" : "d47f96bc-780e-49c1-9761-30ed49098772",
+    "modifiedDate" : "2025-11-09T06:27:14Z",
+    "previewType" : "soundClassifier",
+    "testingEvaluationEntity" : {
+      "analysedDataType" : "none",
+      "createdDate" : "2025-11-09T06:27:14Z",
+      "dataResult" : {
+
+      },
+      "id" : "d1fba6a5-d915-44ae-88f3-4e271e777407"
+    },
+    "trainingEvaluationEntity" : {
+      "analysedDataType" : "none",
+      "createdDate" : "2025-11-09T06:27:14Z",
+      "dataResult" : {
+
+      },
+      "id" : "681943c1-dc4f-404d-9f33-d27be10cda21"
+    },
+    "validationEvaluationEntity" : {
+      "analysedDataType" : "none",
+      "createdDate" : "2025-11-09T06:27:14Z",
+      "dataResult" : {
+
+      },
+      "id" : "c6693622-0492-489d-8dc5-fc0bbc02dc3c"
+    }
+  },
+  "evaluationEntity" : {
+    "analysedDataType" : "none",
+    "dataResult" : {
+
+    },
+    "id" : "8f4fe7af-cbff-45ef-a6f3-8e32f2bca9f6"
+  },
+  "evaluationState" : "uninitialized",
+  "id" : "75C1F4D2-24DD-4869-9311-561881CF400E",
+  "modelEntity" : {
+    "createdDate" : "2025-11-09T06:27:14Z",
+    "experimentID" : "75C1F4D2-24DD-4869-9311-561881CF400E",
+    "id" : "4CD5BDA0-86D8-40D1-9ECC-0CD9670E44D7",
+    "modifiedDate" : "2025-11-09T06:27:14Z",
+    "title" : "",
+    "version" : "1.0"
+  },
+  "modifiedDate" : "2025-11-09T06:27:14Z",
+  "preferredFilename" : "Koongdeok-soundAI 5",
+  "settingEntity" : {
+    "algorithmType" : "maxEnt",
+    "augmentations" : [
+
+    ],
+    "featureNames" : [
+
+    ],
+    "handActionClassifierAugmentations" : [
+
+    ],
+    "handPoseClassifierAugmentations" : [
+
+    ],
+    "harVideoAugmentations" : 0,
+    "seedType" : "default",
+    "soundAlgorithmType" : "transferLearning",
+    "soundClassifierMLPLayers" : [
+      2
+    ],
+    "soundClassifierType" : "logisticRegressor",
+    "soundFeatureExtractionType" : "audioFeaturePrint",
+    "soundIsCustomOverlapFactor" : false,
+    "soundOverlapFactor" : 0.5,
+    "soundTimeWindow" : 0.975,
+    "styleTransferAlgorithmType" : "image",
+    "taskType" : "audioClassifier",
+    "transferLearningEmbeddingType" : "dynamic"
+  },
+  "snapshotRole" : {
+    "withoutSnapshots" : 0
+  },
+  "state" : "uninitialized",
+  "title" : "Koongdeok-soundAI 5",
+  "trainingEntity" : {
+    "analysedDataType" : "choose",
+    "checkpointMetrics" : {
+
+    },
+    "dataResult" : {
+
+    },
+    "featureExtractionCheckpointMayBeAvailable" : false,
+    "progress" : [
+
+    ],
+    "snapshottableCheckpoints" : {
+
+    }
+  },
+  "validationEntity" : {
+    "analysedDataType" : "auto",
+    "dataResult" : {
+
+    },
+    "splitOptions" : {
+      "strategy" : {
+        "automatic" : {
+
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
